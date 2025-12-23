@@ -1,0 +1,75 @@
+h1 {
+    color: black;
+    border-bottom : 1px solid grey
+}
+h2 {
+    color: rgb(43, 51, 78) ; 
+     border-bottom: 1px solid  black
+}
+h3 {
+    color: rgb(89, 52, 104) ;
+     border-bottom: 1px solid  black
+}
+.titulo-principal {
+    text-align: center;
+   
+}
+
+.titulo-principa{
+    width: 70px;
+    
+}
+
+.logo-altomax {
+padding: 2vw 10vh;
+color: gray;
+font-size: 35px;
+border-bottom: 2px solid transparent; 
+}
+
+.logo-altomax:hover{
+    color: black;
+    border-bottom: 2px solid black;
+}
+ 
+
+.sub-titulo{
+    font-size: 20px;
+    color: rgb(153, 90, 211);
+
+
+  
+} 
+
+.membros{
+    justify-content: flex-start;
+}
+#menu{
+    padding: 0.5% 2%;
+
+    display: flex;
+}
+
+.peça{
+    color: rgb(65, 95, 95);
+    font-size: 20px;
+}
+
+.links{
+    color: blueviolet;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+.imagem-altomax{
+    width: 40vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;
+    
+}
+
+
+
